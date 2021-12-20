@@ -45,9 +45,9 @@ public class XML {
             StreamResult result = new StreamResult(new File(fileName));
 
             transformer.transform(source, result);
-            System.out.println("Fajlot e kreiran, imeto e: "+ fileName);
+            System.out.println("Фајлот е креиран а името е : "+ fileName);
 
-            System.out.println("Fajlot e zachuvan.");
+            System.out.println("Фајлот е зачуван.");
 
         } catch (Exception e) {
             System.out.println(e.toString());
