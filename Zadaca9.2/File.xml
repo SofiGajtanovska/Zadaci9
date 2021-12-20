@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Vraboteni>
+    <Vraboten>
+        <Ime>Стефан</Ime>
+        <Prezime>Стефановски</Prezime>
+        <Plata>10000</Plata>
+    </Vraboten>
+    <Vraboten>
+        <Ime>Александар</Ime>
+        <Prezime>Ристевски</Prezime>
+        <Plata>15000</Plata>
+    </Vraboten>
+</Vraboteni>
